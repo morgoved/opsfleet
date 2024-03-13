@@ -2,7 +2,7 @@
 ### General
 
 * Description: this module creates s3 bucket and roles with fixed ACL
-* Created By: a.chernyaev@arammeem.com
+* Created By: a.chernyaev
 * Module Dependencies:
     * missing
 * Provider Dependencies:
